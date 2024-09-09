@@ -1,0 +1,24 @@
+/* zerando as configurações */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Etilizando o parágrafo */
+.products p{
+    margin: 0;
+    text-align: center;
+    padding: 10px;
+    color: deeppink;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color:deeppink;
+    padding: 30px;
+    background-color: rgb(192, 188, 188);
+
+}
